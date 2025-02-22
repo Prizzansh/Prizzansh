@@ -7,7 +7,7 @@
 
 - 🎨 My Hobbies **Art, Music, Gaming, Football, Photography, Reading**
 
-- ⚡ Fun fact **hello kitty >> kuromi**
+- ⚡ Fun fact **I don't like formals, eh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
