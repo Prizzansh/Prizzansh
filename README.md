@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy, I'm Priyansh</h1>
-<h3 align="center">I like to do cool stuff</h3>
+<h3 align="center">🎀 I like to do cool stuff 🎀</h3>
 
 - 🔭 I’m currently working on **something's cooking🤫**
 
