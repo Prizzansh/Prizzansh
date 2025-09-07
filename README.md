@@ -1,11 +1,11 @@
 <h1 align="center">Heyyy, I'm Priyansh</h1>
 <h3 align="center">🎀 I like to do cool stuff 🎀</h3>
 
-- 🔭 I’m currently working on **something's cooking🤫**
+- 🔭 I’m currently working on **maintaining mental sanity🙏**.
 
-- 🌱 I’m currently learning **Backend, App Dev, Networking**
+- 🌱 I’m currently learning **graphic design, web development and many more things.**
 
-- 🎨 My Hobbies **Art, Music, Gaming, Football, Photography, Reading**
+- 🎨 My Hobbies are **Art, Music, Gaming, Football, Photography, Reading**
 
 - ⚡ Fun fact **I don't like formals, eh**
 
@@ -15,7 +15,6 @@
 <a href="https://instagram.com/prizzansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prizzansh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prizzansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prizzansh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prizzansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prizzansh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prizzansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prizzansh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
